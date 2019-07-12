@@ -1,0 +1,761 @@
+0000D 815901 Log_Data_File 1561330800
+1039d 81590
+1014e 81590TMessage( OK )
+1028d 81592
+1014s 81592Dialog Are you sure you want to turn the pump on?
+1063d 81594
+1014e 81594TMessage( YES )
+1029d 81621SystemMenuButton
+1030s 81621System Menu
+1025d 81622sysMenuExitService
+1032f 81622Exit Service
+1026s 81622Dialog DANGER! Machine is about to reset. STAND CLEAR!
+1068d 81624
+1014e 81624TMessage( OK )
+1028s 81624Dialog Please wait a few seconds and try again
+1060d 81626
+1014e 81626TMessage( OK )
+1028a 81674OPT Manager
+1025s 81674PUMPING
+1021e 81674Starting PC4500, version 4.50.68.07
+1049s 81674Chamber 1 now reporting as v00.00.00
+1050s 81674Chamber 1 now reporting as v01.04.17
+1050r081676 Ch1_Chiller_not_running 1
+1040d 81685
+1014s 81685Dialog Only available in Service Mode
+1051d 81687
+1014e 81687TMessage( OK )
+1028d 81690
+1014s 81690Dialog Enter Wafer name(OK) Pump empty chamber(CANCEL)
+1068d 81692
+1014e 81692 : 
+1017y081693 End_of_process_reached 1
+1039d 81697AlarmTitle
+1024f 81697View Alarms
+1025y081698 End_of_process_reached 0
+1039d 81700AlAcc
+1019f 81700Alarm Accept
+1026r081700 Ch1_Chiller_not_running 1
+1040d 81702AlAcc
+1019f 81702Alarm Accept
+1026d 81704AlAcc
+1019f 81704Alarm Accept
+1026r081705 Ch1_Chiller_not_running 1
+1040r082355 Ch1_Chiller_not_running 0
+1040w082647 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048f 82872Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82872Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82872Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82872Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82872Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119s 82872Dialog Read not successful from register 1 on PLC path number 2, error number = -1
+1096d 82964
+1014e 82964TMessage( OK )
+1028f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82964Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82965Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82966Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82967Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82968Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119f 82969Comms error on PLC 2,
+An existing connection was forcibly closed by the remote host.
+
+Please reset PLC 2
+1119w082969 Ch1_N2_Turbo_Purge_Pressure_Low 0
+1048w082969 Ch1_No_Waterflow_to_Table/Source 1
+1049b082969 Ch1_System_reset_button_presses_required 1
+1057r082969 Ch1_Table/Source_Waterflow_Failed 1
+1050b082974 Ch1_System_reset_button_presses_required 0
+1057w082976 Ch1_No_Waterflow_to_Table/Source 0
+1049r082977 Ch1_Table/Source_Waterflow_Failed 0
+1050d 82990AlarmTitle
+1024f 82990View Alarms
+1025d 82991AlAcc
+1019f 82991Alarm Accept
+1026d 82992AlAcc
+1019f 82992Alarm Accept
+1026d 82993AlAcc
+1019f 82993Alarm Accept
+1026d 82999AlAcc
+1019f 82999Alarm Accept
+1026d 83000AlAcc
+1019f 83000Alarm Accept
+1026d 83066SystemMenuButton
+1030s 83066System Menu
+1025d 83069sysMenuService
+1028f 83070Service
+1021s 83070SERVICE MODE
+1026d 83072
+1014s 83072Dialog Are you sure you want to turn the pump on?
+1063d 83074
+1014e 83074TMessage( YES )
+1029d 83183SystemMenuButton
+1030s 83183System Menu
+1025d 83185sysMenuExitService
+1032f 83185Exit Service
+1026s 83185Dialog DANGER! Machine is about to reset. STAND CLEAR!
+1068d 83186
+1014e 83186TMessage( OK )
+1028s 83186PUMPING
+1021d 83191
+1014d 83195
+1014s 83195Dialog Enter Wafer name(OK) Pump empty chamber(CANCEL)
+1068d 83197
+1014e 83197 : 
+1017w083460 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048w083637 Ch1_N2_Turbo_Purge_Pressure_Low 0
+1048w083695 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 83724AlarmTitle
+1024f 83724View Alarms
+1025d 83726AlAcc
+1019f 83726Alarm Accept
+1026w083726 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 83733AlarmTitle
+1024f 83733View Alarms
+1025d 83734AlAcc
+1019f 83734Alarm Accept
+1026w083735 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 83735AlarmTitle
+1024f 83736View Alarms
+1025d 83736AlAcc
+1019f 83736Alarm Accept
+1026w083740 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 83747AlarmTitle
+1024f 83747View Alarms
+1025d 83749AlAcc
+1019f 83749Alarm Accept
+1026w083749 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 83751AlarmTitle
+1024f 83751View Alarms
+1025d 83752AlAcc
+1019f 83752Alarm Accept
+1026w083754 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 83756AlarmTitle
+1024f 83756View Alarms
+1025d 83760AlAcc
+1019f 83760Alarm Accept
+1026w083760 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 83797AlarmTitle
+1024f 83797View Alarms
+1025d 83799AlAcc
+1019f 83799Alarm Accept
+1026w083799 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 83800SystemMenuButton
+1030s 83800System Menu
+1025d 83805sysMenuTolerance
+1030s 83805TOLERANCES
+1024d 83831SystemMenuButton
+1030s 83831System Menu
+1025d 83835sysMenuRecipe
+1027s 83835RECIPES
+1021d 83835MimicSystem
+1025d 83838
+1014f 83838Load Recipe
+1025d 83868RunRecipeButt
+1027f 83868Run Recipe
+1024e 83868Started Task --- (1): Batch ID (---), 0 wafers
+1060e 83868LogFile Overrun - file handle 0 still open
+1056d 83871SystemMenuButton
+1030s 83871System Menu
+1025d 83873sysMenuChamber
+1028s 83873Process Chamber
+1029r083874 Ch1_N2_Turbo_Purge_Pressure_Failed 1
+1051w083874 Ch1_N2_Turbo_Purge_Pressure_Low 0
+1048e 83874Process on Chamber Process Chamber (ch1) Stopped by Plc.
+1070s 83874Dialog All processes attached to this Recipe Task  have been stopped by Plc 
+1090d 83882
+1014e 83882TMessage( OK )
+1028e 83882Task(1) completed.
+1032e 83882Tasks left => LL1 : 0, LL2 : 0, LL3 : 0
+1053d 83884AlarmTitle
+1024f 83884View Alarms
+1025r083886 Ch1_N2_Turbo_Purge_Pressure_Failed 0
+1051d 83886AlAcc
+1019f 83886Alarm Accept
+1026d 83887AlAcc
+1019f 83887Alarm Accept
+1026d 83893SystemMenuButton
+1030s 83893System Menu
+1025d 83894sysMenuChamber
+1028s 83894Process Chamber
+1029d 83895SystemMenuButton
+1030s 83895System Menu
+1025d 83897sysMenuPumping
+1028s 83897PUMPING
+1021d 84038
+1014d 84040
+1014s 84040Dialog Enter Wafer name(OK) Pump empty chamber(CANCEL)
+1068d 84042
+1014e 84042 : 
+1017d 84217SystemMenuButton
+1030s 84217System Menu
+1025d 84218sysMenuRecipe
+1027s 84218RECIPES
+1021d 84220RunRecipeButt
+1027f 84220Run Recipe
+1024e 84221Started Task --- (2): Batch ID (---), 0 wafers
+1060d 84223SystemMenuButton
+1030s 84223System Menu
+1025d 84224sysMenuChamber
+1028s 84224Process Chamber
+1029w084235 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 84278AlarmTitle
+1024f 84278View Alarms
+1025d 84282AlAcc
+1019f 84282Alarm Accept
+1026w084282 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 84286AlarmTitle
+1024f 84286View Alarms
+1025d 84287AlAcc
+1019f 84287Alarm Accept
+1026w084287 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 84288AlarmTitle
+1024f 84288View Alarms
+1025d 84289AlAcc
+1019f 84289Alarm Accept
+1026w084292 Ch1_N2_Turbo_Purge_Pressure_Low 1
+1048d 84304SystemMenuButton
+1030s 84304System Menu
+1025d 84310sysMenuPumping
+1028s 84310PUMPING
+1021w084403 Ch1_N2_Turbo_Purge_Pressure_Low 0
+1048d 84437AlarmTitle
+1024f 84437View Alarms
+1025d 84439AlAcc
+1019f 84439Alarm Accept
+1026d 84454SystemMenuButton
+1030s 84454System Menu
+1025d 84457sysMenuChamber
+1028s 84457Process Chamber
+1029d 84513SystemMenuButton
+1030s 84513System Menu
+1025d 84515sysMenuRecipe
+1027s 84515RECIPES
+1021d 84517SystemMenuButton
+1030s 84517System Menu
+1025d 84519sysMenuPumping
+1028s 84519PUMPING
+1021d 84543SystemMenuButton
+1030s 84543System Menu
+1025d 84544sysMenuRecipe
+1027s 84544RECIPES
+1021d 84545SystemMenuButton
+1030s 84545System Menu
+1025d 84546sysMenuChamber
+1028s 84546Process Chamber
+1029y084550 End_of_process_reached 1
+1039d 84553AlarmTitle
+1024f 84553View Alarms
+1025y084555 End_of_process_reached 0
+1039e 84556Task(2) completed.
+1032e 84556Tasks left => LL1 : 0, LL2 : 0, LL3 : 0
+1053d 84563AlQuit
+1020f 84563Alarm Quit
+1024s 86270Chamber 1 now reporting as v256.17.04
+1051s 86270Chamber 1 now reporting as v01.04.17
+1050
